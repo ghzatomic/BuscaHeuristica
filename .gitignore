@@ -1,0 +1,7 @@
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+target/classes/Main.class
+target/classes/Mock.class
+target/classes/br/com/caio/buscaheuristica/BuscaHeuristicaA.class
+target/classes/br/com/caio/buscaheuristica/Node.class
