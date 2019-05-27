@@ -5,3 +5,5 @@ target/classes/Main.class
 target/classes/Mock.class
 target/classes/br/com/caio/buscaheuristica/BuscaHeuristicaA.class
 target/classes/br/com/caio/buscaheuristica/Node.class
+**/target/**
+**.settings/**
